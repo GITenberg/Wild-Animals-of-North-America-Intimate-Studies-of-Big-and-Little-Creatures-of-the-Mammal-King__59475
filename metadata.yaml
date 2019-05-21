@@ -1,5 +1,5 @@
 _repo: Wild-Animals-of-North-America-Intimate-Studies-of-Big-and-Little-Creatures-of-the-Mammal-King__59475
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Fuertes, Louis Agassiz
@@ -14,12 +14,17 @@ contributor:
     deathdate: 1966
     gutenberg_agent_id: '37901'
     url: http://www.gutenberg.org/2009/agents/37901
+covers:
+- cover_type: archival
+  image_path: 59475-h/images/cover.jpg
 creator:
   author:
     agent_name: Nelson, Edward William
     gutenberg_agent_id: '50468'
     url: http://www.gutenberg.org/2009/agents/50468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59475#Wild-Animals-of-North-America-Intimate-Studies-of-Big-and-Little-Creatures-of-the-Mammal-King_
 gutenberg_issued: '2019-05-10'
 gutenberg_type: Text
 identifiers:
