@@ -1,0 +1,36 @@
+_repo: Wild-Animals-of-North-America-Intimate-Studies-of-Big-and-Little-Creatures-of-the-Mammal-King__59475
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Fuertes, Louis Agassiz
+    birthdate: 1874
+    deathdate: 1927
+    gutenberg_agent_id: '4612'
+    url: http://www.gutenberg.org/2009/agents/4612
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Agassiz_Fuertes
+  - agent_name: Grosvenor, Gilbert Hovey
+    alias: Grosvenor, G. H. (Gilbert Hovey)
+    birthdate: 1875
+    deathdate: 1966
+    gutenberg_agent_id: '37901'
+    url: http://www.gutenberg.org/2009/agents/37901
+creator:
+  author:
+    agent_name: Nelson, Edward William
+    gutenberg_agent_id: '50468'
+    url: http://www.gutenberg.org/2009/agents/50468
+description: ''
+gutenberg_issued: '2019-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wild Animals of North America
+
+  Intimate Studies of Big and Little Creatures of the Mammal Kingdom'
+url: http://www.gutenberg.org/ebooks/59475
